@@ -835,7 +835,7 @@ img {
   width: 16px;
 }
 .form-check-policy:checked + .form-label-policy::before {
-  background-image: url('../images/Vector.svg');
+  background-image: url('../images/icon-check.svg');
   background-repeat: no-repeat;
   outline: none;
   background-color: #188ce8;

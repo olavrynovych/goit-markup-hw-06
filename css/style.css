@@ -848,6 +848,9 @@ img {
   outline: 2px solid #000;
   background-color: #ffffff;
   margin-right: 7px;
+  width: 16px;
+  height: 15px;
+  border-radius: 2px;
 }
 .form-label-policy {
   display: flex;
